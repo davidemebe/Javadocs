@@ -6,7 +6,7 @@ public class Ejercicio01 {
             System.out.println("isto e un bucle");
             contador++;
         } while (contador < 5);
-
+//comentario prueba
     }
 }
 
